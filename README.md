@@ -1,4 +1,4 @@
-# Analise_Para_Deteccaoo_Doencas_Hepaticas
+# Analise_Para_Deteccao_Doencas_Hepaticas
 
 Contexto
 
@@ -19,14 +19,25 @@ A coluna "dataset" é um rótulo de classe(label/TARGET) usado para dividir grup
 Este conjunto de dados contém 441 registros de pacientes do sexo masculino e 142 do sexo feminino.
 
 AD - Arquitetura dos Dados/Dicionário de Dados
+
 Idade do paciente
+
 Sexo do paciente
+
 Bilirrubina Total
+
 Bilirrubina direta
+
 Fosfotase Alcalina
+
 Alamina Aminotransferase
+
 Aspartato Aminotransferase
+
 Protiens Total
+
 Albumina
+
 Proporção de albumina e globulina
+
 dataset: campo usado para dividir os dados em dois conjuntos (paciente com doença hepática ou sem doença)
